@@ -1,2 +1,4 @@
 # workproject
-test project
+test project  
+
+Вариант запуска pytest -v --tb=line --language=en -m need_review
